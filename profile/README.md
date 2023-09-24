@@ -1,4 +1,4 @@
-![Diet Genius](https://github.com/DietGenius/.github/blob/main/diet-genius-75x75.png) <font size=15 style="margin : 10px"> Diet Genius App </font>
+![Diet Genius](https://github.com/DietGenius/.github/blob/main/diet-genius-75x75.png) <font size=50 style="margin-left : 100px"> Diet Genius App </font>
 
 _____
 
