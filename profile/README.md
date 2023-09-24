@@ -29,12 +29,12 @@ _____
 
   - Çalışma Akışı:
 
-    1. Kullanıcı, uygulamaya kaydolur ve kişisel bilgilerini girer.
-    2. Kullanıcı sağlık hedeflerini ve diyet tercihlerini belirler.
-    3. Backend, kullanıcının verilerini saklar ve yapay zekaya iletir.
-    4. Yapay zeka, kullanıcının bilgilerini analiz eder ve kişiye özel bir diyet listesi oluşturur.
-    5. Kullanıcı, frontend arayüzünden diyet listesini görüntüler ve istediği zaman profil bilgilerini günceller.
-    6. Uygulama, kullanıcının ilerlemesini takip edebilir ve yeni diyet listeleri üretebilir.
+  1. Kullanıcı, uygulamaya kaydolur ve kişisel bilgilerini girer.
+  2. Kullanıcı sağlık hedeflerini ve diyet tercihlerini belirler.
+  3. Backend, kullanıcının verilerini saklar ve yapay zekaya iletir.
+  4. Yapay zeka, kullanıcının bilgilerini analiz eder ve kişiye özel bir diyet listesi oluşturur.
+  5. Kullanıcı, frontend arayüzünden diyet listesini görüntüler ve istediği zaman profil bilgilerini günceller.
+  6. Uygulama, kullanıcının ilerlemesini takip edebilir ve yeni diyet listeleri üretebilir.
   
 ____
 
