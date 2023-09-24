@@ -1,4 +1,4 @@
-# Diet Genius
+![Diet Genius](https://github.com/DietGenius/.github/blob/main/diet-genius-75x75.png) <h1> Diet Genius App </h1>
 
 _____
 
