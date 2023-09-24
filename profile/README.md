@@ -5,7 +5,7 @@ _____
 
 - Bu uygulama İskenderun Teknik Üniversitesi Bitirme Projesi için geliştirilmektedir.
 - [Uygulama Açıklaması](#açıklama)
-- [Geliştirme Ekibi](#gelistirme-ekibi)
+- [Geliştirme Ekibi](#geliştirme-ekibi)
 - [Framework ve Diller](#frameworkler-ve-diller)
 - [Mimari](#Mimari)
 
