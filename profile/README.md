@@ -10,9 +10,8 @@ _____
 ________
 
 ## Geliştirme Ekibi
-
-    - [Melis Ölmez](www.github.com/melisolmez)
-    - [Emin Özkan](www.github.com/melisolmez)
+- [Melis Ölmez](www.github.com/melisolmez)
+- [Emin Özkan](www.github.com/melisolmez)
 
 
 ## Frameworkler ve Diller
