@@ -3,6 +3,17 @@
 
 _____
 
+- Bu uygulama İskenderun Teknik Üniversitesi Bitirme Projesi için geliştirilmektedir.
+- [Uygulama Açıklaması](#Aciklama)
+- [Geliştirme Ekibi](#gelistirme-ekibi)
+- [Framework ve Diller](#frameworkler-ve-diller)
+- [Mimari](#Mimari)
+
+________
+
+## Açıklama
+
+
 - Amaç: 
   - Bu uygulama, kullanıcının kişisel bilgileri, sağlık hedefleri ve tercihleri temel alarak kişiye özel diyet listeleri oluşturmayı amaçlar.
 
@@ -38,12 +49,7 @@ _____
   
 ____
 
-- Bu uygulama İskenderun Teknik Üniversitesi Bitirme Projesi için geliştirilmektedir.
-- Uygulama; yapay zeka, backend ve bir front end bileşenlerinden oluşacaktır.
-- Kullanılan programlama dillere ve frameworklere [buradan](#frameworkler-ve-diller) ulaşabilirsiniz.
-- Uygulama mimarisi için [tıklayınız.](#Mimari)
 
-________
 
 ## Geliştirme Ekibi
 - [Melis Ölmez](https://github.com/melisolmez)
